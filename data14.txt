@@ -1,12 +1,8 @@
 Câu 1. Trẻ sơ sinh đủ tháng bình thường là
-* Cân nặng  2.500g, chiều cao 47cm, vòng đầu 32 cm tương ứng tuổi thai
-38-42 tuần
- Cân nặng 2.700g, chiều cao 47cm, vòng đầu 32 cm tương ứng tuổi thai
-38-42 tuần
- Cân nặng 2.500g, chiều cao 47cm, vòng đầu 32 cm tương ứng tuổi thai
-< 38 tuần
- Cân nặng 2.500g, chiều cao 47cm, vòng đầu 36cm tương ứng tuổi thai
-38-42 tuần.
+* Cân nặng  2.500g, chiều cao 47cm, vòng đầu 32 cm tương ứng tuổi thai 38-42 tuần
+ Cân nặng 2.700g, chiều cao 47cm, vòng đầu 32 cm tương ứng tuổi thai 38-42 tuần
+ Cân nặng 2.500g, chiều cao 47cm, vòng đầu 32 cm tương ứng tuổi thai < 38 tuần
+ Cân nặng 2.500g, chiều cao 47cm, vòng đầu 36cm tương ứng tuổi thai 38-42 tuần.
 
 Câu 2. Tắm trẻ sơ sinh hàng ngày với nước đun sôi đê nguội với nhiệt độ từ
  35 độ C- 36độ C
